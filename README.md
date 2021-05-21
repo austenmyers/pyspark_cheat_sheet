@@ -1,4 +1,4 @@
-# PySpark Cheat Sheet 🐍
+# PySpark Cheat Sheet 🐍⚡️
 
 A quick reference guide to the most commonly used patterns and functions in PySpark SQL.
 
